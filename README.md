@@ -67,6 +67,6 @@ Hosted on Vercel
 
 Environment variable set:
 
-VITE_API_URL=https://todo-backend-1kdd.onrender.com
+VITE_API_URL= https://todo-backend-1kdd.onrender.com
 👨‍💻 Author
 Virendra Singh
